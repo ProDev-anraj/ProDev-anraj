@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Anthony [@ProDev-anraj], Welcome to my GitHub profile!
-- 👀 I’m a professional automation engineer, and I am interested in Ansible and Python, I am looking forward to working on open-source projects and contributing to the tech community.
+- 👀 I’m a professional automation engineer interested in Ansible and Python coding. 
 - 🌱 I’m currently learning Kubernetes, Docker, Ansible, and Azure
 - 💞️ I’m looking to collaborate on Opensource projects
 - 💼 My Skills**
