@@ -4,6 +4,7 @@ This portfolio documents my journey into MLOps (Machine Learning Operations) and
 ________________________________________
 🎯 Career Roadmap
 Here’s my learning & project roadmap, broken into phases:
+
     1.	Foundations (0–3m) → Kubernetes, Helm, Docker, Security (CKA, CKS).
     2.	AIOps (3–6m) → Observability, anomaly detection, predictive autoscaling.
     3.	ML Fundamentals (6–9m) → Python, scikit-learn, Andrew Ng specialization.
